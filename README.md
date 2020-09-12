@@ -1,1 +1,1 @@
-Stepik.org course Chapter3
+Stepik.org Automation course Chapter3
